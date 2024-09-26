@@ -1,0 +1,8 @@
+
+====================== trigger_1 ======================
+
+create custom object p21 order items with field OrderDate, Account Lookup, orderAmmount
+and a custom field on Account like GrandTotal which will have sum of all child orders of this month
+if an order is expired (months) then update the GrandTotal value as well
+
+
